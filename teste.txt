@@ -1,4 +1,5 @@
-Lista de alunos da aula:
+Lista de alunos da aula: 
+Hebert Silveira Santos
 Gabriel Santana
 Daniela
 Fábio Silva Menezes
