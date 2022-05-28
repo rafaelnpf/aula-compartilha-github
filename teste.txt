@@ -1,4 +1,5 @@
-Lista de alunos da aula:
+Lista de alunos da aula: 
+Daniela
 Fábio Silva Menezes
 Mary
 Joao Ramos
